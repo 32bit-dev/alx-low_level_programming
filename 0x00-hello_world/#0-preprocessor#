@@ -1,0 +1,2 @@
+#!/bin/bash
+ngcc 9 $CFILE -o c
