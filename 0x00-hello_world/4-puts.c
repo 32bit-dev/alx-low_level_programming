@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
- * main - prints out the string in the put function
- * This programme print out some text
+ * Description: using the main function
+ * This programme prints out some text
 */
 int main(void)
 {
